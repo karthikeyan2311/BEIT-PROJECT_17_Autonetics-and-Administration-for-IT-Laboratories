@@ -1,8 +1,8 @@
 
 # Group Members
 - [Karthikeyan V.](https://github.com/karthikeyan2311) - 16104050
-- [Uddhabendra Maity] - 16104062
-- [Atharv Shetty] - 16104061
+- Uddhabendra Maity - 16104062
+- Atharv Shetty - 16104061
 
 # Brief Description
 Majority of IT labs in today's academic institutions face operational issues in the management
